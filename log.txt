@@ -28,8 +28,8 @@
 [release_parser:foxtrottt_]: Found 0 new release items
 [release_parser:foxtrottt_]: Exited successfully
 [release_parser:foxtrottt_]: Pinging bandcamp release feed for user foxtrottt_ [https://dcellgames.bandcamp.com/music]
-[release_parser:foxtrottt_]: Found 7 links...
-[release_parser:foxtrottt_]: Found 0 new release items
+[release_parser:foxtrottt_]: Found 8 links...
+[release_parser:foxtrottt_]: Found 1 new release items
 [release_parser:foxtrottt_]: Exited successfully
 [release_parser:foxtrottt_]: Pinging bandcamp release feed for user foxtrottt_ [https://dogshowrecs.bandcamp.com/music]
 [release_parser:foxtrottt_]: Found 13 links...
@@ -39,7 +39,7 @@
 [release_parser:foxtrottt_]: Found 8 links...
 [release_parser:foxtrottt_]: Found 0 new release items
 [release_parser:foxtrottt_]: Exited successfully
-[rss_aggregator.py:foxtrottt_]: No updates detected for this user
-[rss_aggregator.py:foxtrottt_]: Exited successfully
-[user_orchestrator.py]: No updates found for final.rss
+[rss_aggregator.py:unknown user...]: Created item Release update for **foxtrottt_**
+[rss_aggregator.py:foxtrottt_]: updating items.rss with 1 updates for this user
+[user_orchestrator.py]: Updating final.rss at 2026-07-28 13:19:01.816526
 [user_orchestrator.py]: Exited successfully
