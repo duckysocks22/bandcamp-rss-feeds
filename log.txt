@@ -41,7 +41,5 @@
 [release_parser:foxtrottt_]: Exited successfully
 [rss_aggregator.py:foxtrottt_]: No updates detected for this user
 [rss_aggregator.py:foxtrottt_]: Exited successfully
-[rss_aggregator.py:unknown user...]: updating items.rss with bandcamp friday notification
-[rss_aggregator.py:unknown user...]: Created item Bandcamp Friday
-[user_orchestrator.py]: Updating final.rss at 2026-09-04 15:06:04.279945
+[user_orchestrator.py]: No updates found for final.rss
 [user_orchestrator.py]: Exited successfully
