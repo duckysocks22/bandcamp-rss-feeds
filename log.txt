@@ -16,8 +16,8 @@
 [release_parser:foxtrottt_]: Found 0 new release items
 [release_parser:foxtrottt_]: Exited successfully
 [release_parser:foxtrottt_]: Pinging bandcamp release feed for user foxtrottt_ [https://flavorfoley.bandcamp.com/music]
-[release_parser:foxtrottt_]: Found 11 links...
-[release_parser:foxtrottt_]: Found 0 new release items
+[release_parser:foxtrottt_]: Found 12 links...
+[release_parser:foxtrottt_]: Found 1 new release items
 [release_parser:foxtrottt_]: Exited successfully
 [release_parser:foxtrottt_]: Pinging bandcamp release feed for user foxtrottt_ [https://jamiepaige.bandcamp.com/music]
 [release_parser:foxtrottt_]: Found 20 links...
@@ -39,9 +39,7 @@
 [release_parser:foxtrottt_]: Found 8 links...
 [release_parser:foxtrottt_]: Found 0 new release items
 [release_parser:foxtrottt_]: Exited successfully
-[rss_aggregator.py:foxtrottt_]: No updates detected for this user
-[rss_aggregator.py:foxtrottt_]: Exited successfully
-[rss_aggregator.py:unknown user...]: updating items.rss with bandcamp friday notification
-[rss_aggregator.py:unknown user...]: Created item Bandcamp Friday
-[user_orchestrator.py]: Updating final.rss at 2026-10-02 16:49:45.814938
+[rss_aggregator.py:unknown user...]: Created item Release update for **foxtrottt_**
+[rss_aggregator.py:foxtrottt_]: updating items.rss with 1 updates for this user
+[user_orchestrator.py]: Updating final.rss at 2026-10-03 15:14:18.653325
 [user_orchestrator.py]: Exited successfully
