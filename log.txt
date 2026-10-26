@@ -41,10 +41,5 @@
 [release_parser:foxtrottt_]: Exited successfully
 [rss_aggregator.py:foxtrottt_]: No updates detected for this user
 [rss_aggregator.py:foxtrottt_]: Exited successfully
-Unable to find next bandcamp Friday. Recieved: 403 Forbidden
-Request forbidden by administrative rules.
-
-
-Here's the raw HTML: b'<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules.\n</body></html>\n'
 [user_orchestrator.py]: No updates found for final.rss
 [user_orchestrator.py]: Exited successfully
